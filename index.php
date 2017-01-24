@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Notes 03, Arrays</title>
+        <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -23,11 +23,11 @@
 
         <!-- Add your site or application content here -->
         <?php 
-        /* http://localhost:8888/notes-03-arrays/index.php */
+        /* Write your PHP here */
         
         ?> 
 
-        <h1>Javascript Arrays</h1>      
+           
 
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
